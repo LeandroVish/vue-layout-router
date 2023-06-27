@@ -9,6 +9,7 @@
     <nav>
       <router-link to="/"> Home </router-link>
       <router-link to="/about"> Sobre </router-link>
+      <router-link to="/help"> Ajuda </router-link>
     </nav>
   </aside>
   <main>
